@@ -1,0 +1,1 @@
+reg add HKCU\SOFTWARE\Microsoft\Office\16.0\Common\ExperimentEcs\Overrides /v "Microsoft.Office.Outlook.Hub.HubBar" /t REG_SZ /d "false" /f
